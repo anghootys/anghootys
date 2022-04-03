@@ -3,7 +3,7 @@
 
 ## :man: Know Me
 
-- 🌱 I’m currently learning **C++ Programming Language.**
+- 🌱 I’m currently learning **Backend Architecture.**
 
 - 👯 I’m looking to collaborate on **Scientific and research projects**
 

@@ -3,13 +3,11 @@
 
 ## :man: Know Me
 
-- 🌱 I’m currently learning **Backend Architecture.**
+- 🌱 I’m currently learning **C++**.
 
-- 👯 I’m looking to collaborate on **Scientific and research projects**
+- 👯 I’m looking to collaborate on **Software Engineering**.
 
-- 📫 You can reach me at **anghootys@gmail.com**
-
-- ⚡ Fun fact **I don`t live but only alive.**
+- 📫 You can reach me at **anghootys@gmail.com**.
 
 ## 🚀 Languages and Techniques:
 
